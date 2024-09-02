@@ -1,0 +1,112 @@
+.Titulo{
+    background-color:#FFFED3;
+    color: #c26452;
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+    padding: 35px;
+    margin-bottom: -60px;
+    margin-top: 0%;
+}
+
+.Eslogan{
+    color: #c26452;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    font-weight: 900;
+    background-color:#FFFED3;
+    padding: 25px;
+    text-align: center;
+}
+
+.img{
+    display: block;
+    margin: auto;
+    background-color: #FFFED3;
+}
+.section{
+background-color:#FFFED3 ;
+margin-top: -20px;
+padding: 25px;
+
+}
+.section1{
+    background-color:#FFFED3 
+}
+.nav-enlace{
+    display: inline-block;
+    background-color:#BACBEA;
+    color: #c26452;
+    font-family: 'Playfair Display', serif;
+    padding: 10px 30px;
+    text-decoration: none;
+    margin: auto;
+}
+.nav-enlace:hover{
+    background-color:#FADCDA;
+}
+nav{
+    background: #BACBEA;
+    padding: 10px;
+}
+ 
+.sectionli{
+
+    background-color: #FFFED3;
+    padding: 8%;
+}
+
+li{
+    color: #c26452;
+    font-family: 'Playfair Display', serif;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 900;
+
+}
+h3{
+    color:#BACBEA;
+    font-family: 'Playfair Display', serif;
+    background-color: #FFFED3;
+    padding: 4%;
+    margin: auto;
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center
+}
+
+.imgprendas{
+    width: 500px;
+    display: block;
+    height: auto;
+    margin: auto;
+    background-color: #FFFED3;
+
+}
+.section-fondo{
+background-color: #FFFED3;
+padding: 2%;
+
+}
+
+
+
+
+button{
+
+    background-color: #FADCDA; 
+    color: #c26452 ;
+    font-size: 16px; 
+    font-family: 'Playfair Display', serif;
+    padding: 8px 8px; 
+    border: 4px solid #BACBEA; 
+    border-radius: 3px; 
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Sombra ligera */
+    width: 120px;
+    height: 50px; 
+}
+button:hover {
+    background-color: #BACBEA; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
+}
